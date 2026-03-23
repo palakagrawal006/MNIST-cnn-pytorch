@@ -24,7 +24,7 @@ This project implements a Convolutional Neural Network (CNN) using PyTorch to cl
 
 ```
 git clone https://github.com/palakagrawal006/MNIST-cnn-pytorch.git
-cdMNIST-cnn-pytorch
+cd MNIST-cnn-pytorch
 ```
 
 ### 2. Install dependencies
